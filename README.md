@@ -1,5 +1,8 @@
 # README
 
+This is only a repo example on how to add Bootstrap 5 to a Rails 6 project
+[Blog post](https://bootrails.com/blog/rails-bootstrap-tutorial)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
